@@ -610,9 +610,9 @@ img, svg {
   border-color: #000000;
 }
 .btn-dark:hover {
-  color: black;
-  background-color: white;
-  border-color: rgb(0, 0, 0);
+  color: hsl(0, 0%, 0%);
+  background-color: hsl(0, 0%, 100%);
+  border-color: hsl(0, 0%, 0%);
   font-size: 1.5em;
 }
 .btn-check:focus + .btn-dark, .btn-dark:focus {

@@ -383,7 +383,7 @@ img, svg {
   }
 }
 .btn:hover {
-  color: #000000;
+  color: rgb(0, 0, 0);
 }
 .btn-check:focus + .btn, .btn:focus {
   outline: 0;
@@ -610,9 +610,10 @@ img, svg {
   border-color: #000000;
 }
 .btn-dark:hover {
-  color: #fff;
-  background-color: black;
-  border-color: black;
+  color: black;
+  background-color: white;
+  border-color: rgb(0, 0, 0);
+  font-size: 1.5em;
 }
 .btn-check:focus + .btn-dark, .btn-dark:focus {
   color: #fff;

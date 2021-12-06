@@ -81,8 +81,8 @@ body {
   background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/assets/img/me.jpg);
   border: 1px solid #fff;
   border-radius: 50%;
-  height: 55vh;
-  width: 40vw;
+  height: 45vh;
+  width: 30vw;
   background-size: cover;
   background-position: center;
 }
@@ -93,39 +93,41 @@ h1, .h1 {
 
 @media (min-width: 1200px){
   .dp{
-    width: 30vw;
+    width: 20vw;
+    height: 20vh;
   }
 }
 @media (min-width: 630px){
   .dp{
-    width: 30vw;
+    width: 20vw;
+    height: 20vh;
     margin-left: 160px;
   }
 }
 @media (min-width: 350px){
   .dp{
-    width: 40vw;
-    height: 40vh;
+    width: 30vw;
+    height: 30vh;
     margin-left: 150px;
   }
 }
 @media (min-width: 349px){
   .dp{
-    width: 40vw;
-    height: 40vh;
+    width: 30vw;
+    height: 30vh;
     margin-left: 150px;
   }
 }
 @media (min-width: 300px){
   .dp{
-    width: 50vw;
+    width: 40vw;
     height: 40vh;
     margin-left: 100px;
   }
 }@media (min-width: 245px){
   .dp{
     width: 40vw;
-    height: 60vh;
+    height: 40vh;
     margin-left: 30px;
   }
 }

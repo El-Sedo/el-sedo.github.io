@@ -95,7 +95,7 @@ body {
 .heroContainer {
   animation: slideshow 25s ease-in-out infinite;
   background-size: cover;
-  height: 400px;
+  height: 450px;
   width: auto;
 }
 
